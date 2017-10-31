@@ -1,0 +1,3 @@
+class Diretor extends Gerente {
+	
+}
